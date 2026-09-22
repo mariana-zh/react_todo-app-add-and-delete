@@ -230,7 +230,6 @@ export const App: React.FC = () => {
                 </div>
               </div>
             )}
-            ;
           </section>
         )}
         {/* Hide the footer if there are no todos */}
